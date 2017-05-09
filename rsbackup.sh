@@ -49,17 +49,17 @@
 # ------------- Configuration --------------------------
 
 # Change this to the actual rsync backup server
-BACKUP_SERVER=synology
+BACKUP_SERVER=
 
 # BACKUP USER ID
-BACKUP_LOGIN_SSH=rsbackup
+BACKUP_LOGIN_SSH=
 
 # Set this to true if you allow users to specify their
 # own exclude files, false otherwise
 ALLOW_USER_EXCLUDE_FILE=true
 
 # Set this to 1 once configured properly
-CONFIGURED=1
+CONFIGURED=0
 
 # ------------- Configuration end ------------------------
 
